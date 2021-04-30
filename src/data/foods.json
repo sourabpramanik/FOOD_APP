@@ -1,0 +1,27 @@
+[
+    {
+        "img":"../images/food1.jpg",
+        "alt":"pizza",
+        "name":"Peperoni Pizza",
+        "lable":"Have At It"
+    },
+    {
+        "img":"../images/food3.jpg",
+        "alt":"biryani",
+        "name":"Hyderabadi Biryani",
+        "lable":"Have At It"
+    },
+    {
+        "img":"../images/food2.jpg",
+        "alt":"sushi",
+        "name":"Sushi",
+        "lable":"Have At It"
+    },
+    {
+        "img":"../images/food4.jpg",
+        "alt":"burger",
+        "name":"Hamburger From Mexico",
+        "lable":"Have At It"
+    }
+   
+]
